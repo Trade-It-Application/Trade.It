@@ -30,3 +30,7 @@ hs_err_pid*
 
 #IntelliJ
 .idea/
+
+#build
+build/
+
